@@ -1,0 +1,13 @@
+#inputData td  { color: white; }
+#inputData h2 { color: white; }
+#myTableData td { color: white; }
+#myData h1 { color: white; }
+#sortNumIcon i {color: white}
+#sortAlphaIcon i {color: white}
+#myTableData tr td {
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding: 2px;
+  }
+#inputData td.red {color:lightgoldenrodyellow}
+body { background-color: black;}
